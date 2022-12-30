@@ -6,7 +6,7 @@ En este repositorio están todas mis soluciones de cada reto del [AdventJS](http
 
 ## Agradecimientos especiales
 
-Quiero agradecer primeramente a Dios, luego a [@midudev](https://github.com/midudev) (por crear los retos) y a mi esposa que siempre me motivó cada día a terminar cada reto lo antes posible. 
+Quiero agradecer primeramente a Dios, luego a [@midudev](https://github.com/midudev) (por crear los retos) y a mi esposa que siempre me motivó cada día a terminar cada reto lo antes posible (casi de inmediato 🤣)
 
 Y a ustedes, no los dejaré por fuera, no señor, les agradezco a los que compitieron conmigo (y me apoyaron) conectados en vivo en Google Meet: [Eliezer Peña](https://github.com/EliezerSPP) y [Carlos Márquez](https://github.com/carlosjmarq). Grandes profesionales y compañeros, ¡Mis mejores deseos!
 
