@@ -4,7 +4,7 @@ const { AssertError } = require('../utils/customErrors.js')
 // * Get the function of challenge.
 const wrapping = require('../challenges/challenge-1')
 
-describe('Challenge #01', () => {
+describe('Challenge #01 - ¡Automatizando envolver regalos de navidad!', () => {
   it('Test #01 - Returns an Array', () => {
     assert.equal(
       Array.isArray(
