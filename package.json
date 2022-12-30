@@ -1,0 +1,21 @@
+{
+  "name": "adventjs-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrlandoBricenoB/adventjs-2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrlandoBricenoB/adventjs-2022/issues"
+  },
+  "homepage": "https://github.com/OrlandoBricenoB/adventjs-2022#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
