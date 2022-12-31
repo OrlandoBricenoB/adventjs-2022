@@ -4,7 +4,7 @@ const { AssertError } = require('../utils/customErrors.js')
 // * Get the function of challenge.
 const getCompleted = require('../challenges/challenge-11')
 
-describe('Challenge #11- Papá Noel es Scrum Master', () => {
+describe('Challenge #11 - Papá Noel es Scrum Master', () => {
   it('Test #01 - Returns a string', () => {
     assert.equal(
       typeof getCompleted('01:00:00', '03:00:00') === 'string',
